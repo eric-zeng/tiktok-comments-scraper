@@ -1,0 +1,20 @@
+{
+  "name": "tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.6",
+    "puppeteer": "^13.3.2"
+  },
+  "devDependencies": {
+    "@types/json2csv": "^5.0.3",
+    "@types/puppeteer": "^5.4.4"
+  }
+}
